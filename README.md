@@ -3,9 +3,11 @@
 A list of resources for setting up an audio digitization workflow.
 
 ## Hardware
-
 ### Adapters
-* [iMic](https://griffintechnology.com/us/products/audio/imic)
+### Audio Interfaces
+* [iMic USB Audio Interface](https://griffintechnology.com/us/products/audio/imic)
+
+#### [Tascam](http://tascam.com/products/pc_audio_interface/)
 * [Tascam US-366](http://tascam.com/product/us-366/)
 
 ### Cassette Decks
@@ -13,12 +15,13 @@ A list of resources for setting up an audio digitization workflow.
 
 ## Software
 
-### Linux
+### Audio Recording Software
+#### Linux
 * [Audacity](http://www.audacityteam.org/download/linux)
 
-### OS X
+#### OS X
 * [Amadeus Pro](http://www.hairersoft.com/pro.html)
 * [Audacity](http://www.audacityteam.org/download/mac)
 
-### Windows
+#### Windows
 * [Audacity](http://www.audacityteam.org/download/windows)
