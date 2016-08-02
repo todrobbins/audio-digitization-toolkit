@@ -19,7 +19,7 @@ These are the physical devices or components that you will need to interface wit
 
 | Make  | Model | 1/8" (P) | 1/8" (R) | Optical Digital (P) | Optical Digital (R) | RCA (P) | RCA (R) | USB | USB-Powered | XLR (P) | XLR (R) | Preamp
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
-| [Behringer](https://www.music-group.com/brand/behringer/home) | [UFO202 - USB 1.1 Digital Audio Interface](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UFO202/p/P0A12) |  |  |  |  | ✅ | ✅ | ✅ | ✅ |  |  | ✅ |
+| [Behringer](https://www.music-group.com/brand/behringer/home) | [UFO202](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UFO202/p/P0A12) |  |  |  |  | ✅ | ✅ | ✅ | ✅ |  |  | ✅ |
 | [Griffin Technology](https://griffintechnology.com) | [iMic USB Audio Interface](https://griffintechnology.com/us/products/audio/imic) |  |  |  |  |  |  | ✅ | ✅ |  |  |  |
 | [TASCAM](http://tascam.com/) | [US-366](http://tascam.com/product/us-366/) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |
 | [TASCAM](http://tascam.com/) | [US-1200](http://tascam.com/product/us-1200/) | ✅ | ✅ |  |  |  |  | ✅ |  | ✅ | ✅ | ✅ |
@@ -94,7 +94,7 @@ There are many different kinds of cables. Cable connectors are either __providin
 | --- | --- |
 | - | - |
 
-#### Gramophone Records
+#### Gramophone Record
 
 | Make  | Model | ▶️ 33 | ▶️ 45 | ▶️ 78 |
 | --- | --- | --- | --- | --- | --- |
@@ -109,8 +109,8 @@ There are many different kinds of cables. Cable connectors are either __providin
 
 #### [Reel-to-Reel](https://en.wikipedia.org/wiki/Reel-to-reel_audio_tape_recording)
 
-| Make  | Model | ▶️ 15/16ths in/s (2.38 cm/s) | ▶️ 1⅞ in/s (4.76 cm/s) | ▶️ 3¾ in/s (9.53 cm/s) | ▶️ 7½ in/s (19.05 cm/s) | ▶️ 15 in/s (38.1 cm/s | ▶️ 30 in/s (76.2 cm/s)
-| --- | --- | --- | --- | --- | --- |
+| Make  | Model | ▶️ 15/16ths in/s (2.38 cm/s) | ▶️ 1⅞ in/s (4.76 cm/s) | ▶️ 3¾ in/s (9.53 cm/s) | ▶️ 7½ in/s (19.05 cm/s) | ▶️ 15 in/s (38.1 cm/s | ▶️ 30 in/s (76.2 cm/s) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | - | - | - | - | - | - | - | - |
 
 ### Signal Processors

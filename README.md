@@ -24,7 +24,7 @@ This project seeks to list reliable resources for setting up an audio digitizati
  - [Elcaset](hardware.md#elcaset)
  - [Gramophone Record](hardware.md#gramophone-record)
  - [MiniDisc](hardware.md#minidisc)
- - [Reel-to-Reel](hardward.md#reel-to-reel)
+ - [Reel-to-Reel](hardware.md#reel-to-reel)
 
 
 - [Signal Processors](hardware.md#signal-processors)
