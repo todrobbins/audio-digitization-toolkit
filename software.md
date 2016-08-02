@@ -12,11 +12,13 @@
 - [Adobe Audition CC](http://www.adobe.com/products/audition.html)
 - [Amadeus Pro](http://www.hairersoft.com/pro.html)
 - [Audacity](http://www.audacityteam.org/download/mac)
+- [RX 5 Audio Editor S](https://www.izotope.com/en/products/repair-and-edit/rx.html)
 - [WavePad](http://www.nch.com.au/wavepad/)
 
 #### Windows
 - [Adobe Audition CC](http://www.adobe.com/products/audition.html)
 - [Audacity](http://www.audacityteam.org/download/windows)
+- [RX 5 Audio Editor S](https://www.izotope.com/en/products/repair-and-edit/rx.html)
 - [WavePad](http://www.nch.com.au/wavepad/)
 
 ---

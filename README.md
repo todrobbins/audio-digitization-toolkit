@@ -9,9 +9,6 @@ This project seeks to list reliable resources for setting up an audio digitizati
 
 
 - [Audio Interfaces](hardware.md#audio-interfaces)
-  - [Behringer](hardware.md#behringer)
-  - [Griffin Technology](hardware.md#griffin-technology)
-  - [Tascam](hardware.md#tascam)
 
 
 - [Cables](hardware.md#cables)
@@ -20,7 +17,13 @@ This project seeks to list reliable resources for setting up an audio digitizati
 
 
 - [Players](hardware.md#players)
- - [Cassette Decks](hardware.md#cassette-decks)
+ - [Compact Cassette](hardware.md#compact-cassette)
+ - [Compact Disc](hardware.md#compact-disc)
+ - [DAT](hardware.md#dat)
+ - [DCC](hardware.md#dcc)
+ - [Elcaset](hardware.md#elcaset)
+ - [Gramophone Record](hardware.md#gramophone-record)
+ - [MiniDisc](hardware.md#minidisc)
  - [Reel-to-Reel](hardward.md#reel-to-reel)
 
 
