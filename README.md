@@ -19,8 +19,8 @@ This project seeks to list reliable resources for setting up an audio digitizati
   - [OSX](software.md#osx)
   - [Windows](software.md#windows)
 
-## Workflows
-
+## [Workflows](workflows.md)
+- Coming soon!
 
 
 ---
