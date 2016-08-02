@@ -2,12 +2,18 @@
 These are the physical devices or components that you will need to interface with your computer and software.
 
 ### Adapters
+#### Analog Adapters
 - [1/4" TRS jack (mono)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve)
 - [1/8" TRS "mini" jack (mono)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve)
 - [Tiny Telephone (TT)/Bantam jack](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve)
 - [RCA](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#rca)
 - [1/4" TS jack](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-sleeve)
 - [1/8" TS "mini" jack](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-sleeve)
+- [1/4" TRS jack (stereo)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve)
+- [1/8" TRS "mini" jack (stereo)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve)
+- [DIN 5-pin](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#din-5-pin)
+
+#### Digital Adapters
 
 ### Audio Interfaces
 #### [Behringer](https://www.music-group.com/brand/behringer/home)
@@ -55,6 +61,24 @@ There are many different kinds of cables. Cable connectors are either __providin
 ### Players
 #### Cassette Decks
 - [Part 1: Cassette Decks: A Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
+
+#### Reel-to-Reel
+
+### Signal Processors
+- Microphone Preamplifiers
+- Phono Preamplifiers
+- Equalizers
+- Crossovers
+- Feedback Suppressors
+- Compressors/Limiters
+- Enhancers/Exciters
+- Multi-Effects Processors
+- Headphone Amplifiers
+- DI Boxes
+- Signal Processor Accessories
+- In-Ear Monitor Systems
+- Loudspeaker Management Processors
+- Splitters
 
 ### [Tapes](https://github.com/ablwr/media-id-posters#tapes)
 - 1" Open Reel
