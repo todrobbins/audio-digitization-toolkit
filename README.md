@@ -5,11 +5,12 @@ This project seeks to list reliable resources for setting up an audio digitizati
 ## [Hardware](hardware.md)
 - [Adapters](hardware.md#adapters)
 - [Audio Interfaces](hardware.md#audio-interfaces)
-- [Tascam](hardware.md#tascam)
+  - [Tascam](hardware.md#tascam)
 - [Cables](hardware.md#cables)
-- [Analog Cables](hardware.md#analog-cables)
-- [Digital Cables](hardware.md#digital-cables)
-- [Cassette Decks](hardware.md#cassette-decks)
+  - [Analog Cables](hardware.md#analog-cables)
+  - [Digital Cables](hardware.md#digital-cables)
+- [Players](hardware.md#players)
+ - [Cassette Decks](hardware.md#cassette-decks)
 - [Tapes](hardware.md#Tapes)
 
 ## [Software](software.md)
@@ -17,6 +18,10 @@ This project seeks to list reliable resources for setting up an audio digitizati
   - [Linux](software.md#linux)
   - [OSX](software.md#osx)
   - [Windows](software.md#windows)
+
+## Workflows
+
+
 
 ---
 This work is licensed under a [Creative Commons Zero License](https://creativecommons.org/publicdomain/zero/1.0/)

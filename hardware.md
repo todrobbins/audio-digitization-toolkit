@@ -40,7 +40,8 @@ There are many different kinds of cables. Cable connectors are either __providin
 - HDMI Type C (P/R)
 - HDMI Type D (P/R)
 
-### Cassette Decks
+### Players
+#### Cassette Decks
 - [Part 1: Cassette Decks: A Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 
 ### [Tapes](https://github.com/ablwr/media-id-posters#tapes)
