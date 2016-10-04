@@ -17,7 +17,7 @@ These are the physical devices or components that you will need to interface wit
 
 ### Audio Interfaces
 
-| Make  | Model | 1/8" (P) | 1/8" (R) | Optical Digital (P) | Optical Digital (R) | RCA (P) | RCA (R) | USB | USB-Powered | XLR (P) | XLR (R) | Preamp
+| Make  | Model | [1/8" TRS (P)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | [1/8" TRS (R)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | Optical Digital (P) | Optical Digital (R) | RCA (P) | RCA (R) | USB | USB-Powered | XLR (P) | XLR (R) | Preamp
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
 | [Behringer](https://www.music-group.com/brand/behringer/home) | [UFO202](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UFO202/p/P0A12) |  |  |  |  | ✅ | ✅ | ✅ | ✅ |  |  | ✅ |
 | [Griffin Technology](https://griffintechnology.com) | [iMic USB Audio Interface](https://griffintechnology.com/us/products/audio/imic) |  |  |  |  |  |  | ✅ | ✅ |  |  |  |
