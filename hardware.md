@@ -17,8 +17,8 @@ These are the physical devices or components that you will need to interface wit
 
 ### Audio Interfaces
 
-| Make  | Model | [1/8" TRS (P)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | [1/8" TRS (R)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | Optical Digital (P) | Optical Digital (R) | RCA (P) | RCA (R) | USB | USB-Powered | XLR (P) | XLR (R) | Preamp
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
+| Make | Model | [1/8" TRS (P)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | [1/8" TRS (R)](https://github.com/amiaopensource/cable-bible/blob/master/pinouts.md#tip-ring-sleeve) | Optical Digital (P) | Optical Digital (R) | RCA (P) | RCA (R) | USB | USB-Powered | XLR (P) | XLR (R) | Preamp |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Behringer](https://www.music-group.com/brand/behringer/home) | [UFO202](https://www.music-group.com/Categories/Behringer/Computer-Audio/Audio-Interfaces/UFO202/p/P0A12) |  |  |  |  | ✅ | ✅ | ✅ | ✅ |  |  | ✅ |
 | [Griffin Technology](https://griffintechnology.com) | [iMic USB Audio Interface](https://griffintechnology.com/us/products/audio/imic) |  |  |  |  |  |  | ✅ | ✅ |  |  |  |
 | [TASCAM](http://tascam.com/) | [US-366](http://tascam.com/product/us-366/) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |
@@ -62,8 +62,8 @@ There are many different kinds of cables. Cable connectors are either __providin
 
 #### [Compact Cassettte](https://en.wikipedia.org/wiki/Compact_Cassette)
 
-| Make  | Model |
-| --- | --- | --- |
+| Make | Model |
+| --- | --- |
 | [TASCAM](http://tascam.com/) | [CC-222MKIV CD Recorder/Cassette Deck](http://tascam.com/product/cc-222mkiv/) |
 | [TEAC](http://www.teac.com/) | [AD-RW900 CD/Cassette Recorder](http://www.teac.com/product/ad-rw900) |
 | [TEAC](http://www.teac.com/) | [W-890RmkII-B Double Auto Reverse Cassette Deck](http://www.teac.com/product/w-890rmkii/) |
@@ -96,9 +96,9 @@ There are many different kinds of cables. Cable connectors are either __providin
 
 #### Gramophone Record
 
-| Make  | Model | ▶️ 33 | ▶️ 45 | ▶️ 78 |
-| --- | --- | --- | --- | --- | --- |
-| [TEAC](http://www.teac.com/) | [MC-D800](http://www.teac.com/product/mc-d800/) | ✅ | ✅ | ✅ |
+| Make | Model | ▶️ 33 | ▶️ 45 | ▶️ 78 |  
+| --- | --- | --- | --- | --- |
+| [TEAC](http://www.teac.com/) | [MC-D800](http://www.teac.com/product/mc-d800/) | ✅ | ✅ | ✅ |  
 | [TEAC](http://www.teac.com/) | [LP-R550USB](http://www.teac.com/product/lp-r550usb/) | ✅ | ✅ | ✅ |
 
 #### [MiniDisc](https://en.wikipedia.org/wiki/MiniDisc)
